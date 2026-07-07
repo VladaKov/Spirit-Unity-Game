@@ -1,0 +1,132 @@
+# ==============
+# Unity generated
+# ==============
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# ==============
+# Visual Studio / MonoDevelop generated
+# ==============
+[Ee]xportedObj/
+.idea/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ==============
+# Unity3D generated meta files
+# ==============
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# ==============
+# Unity3D Generated File On Crash Reports
+# ==============
+sysinfo.txt
+
+# ==============
+# Builds
+# ==============
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# ==============
+# OS generated
+# ==============
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# ==============
+# JetBrains Rider
+# ==============
+*.sln.iml
+*.csproj.user
+*.cache
+*.bak
+*.log
+*.pidb
+*.userprefs
+
+# ==============
+# Addressable Assets
+# ==============
+Library/AddressableAssetsData/
+
+# ==============
+# Unity Package Manager
+# ==============
+/Library/PackageCache/
+
+# ==============
+# Code Coverage
+# ==============
+/CodeCoverage/
+
+# ==============
+# Memory Profiler
+# ==============
+/MemoryCaptures/
+
+# ==============
+# Performance Testing
+# ==============
+/PerformanceTests/
+
+# ==============
+# NuGet
+# ==============
+*.nuget.targets
+packages/
+*.nupkg
+
+# ==============
+# Rider and Resharper
+# ==============
+_ReSharper*/
+*.DotSettings.user
+*.sln.DotSettings.user
+
+# ==============
+# Unity Accelerator
+# ==============
+/UnityPackageManager/
+/Accelerator/
+
+# ==============
+# Android
+# ==============
+[Ll]ocal/[Kk]eys/
+[Ll]ocal/[Pp]roject/[Ss]ettings/
+
+# ==============
+# iOS
+# ==============
+[Tt]emp/[Ii][Oo][Ss]/
+[Ll]ibrary/[Ii][Oo][Ss]/
+[Ll]ibrary/[Pp]layerDataCache/
+[iI][oO][sS]/
